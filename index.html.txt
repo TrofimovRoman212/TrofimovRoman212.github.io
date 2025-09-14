@@ -23,7 +23,7 @@
       <br /> Перенос строки.
       <strong>Очень важный текст</strong>.</p>
 
-    <img src="image.jpg" alt="Цветок" style="width: 600px;" />
+    <img src="file:///C:/Users/scaming/OneDrive/Рабочий%20стол/g12/1/image.jpg" alt="Цветок" style="width: 600px;" />
 
     <h2>Структура страницы</h2>
 
@@ -63,3 +63,4 @@
   </body>
 
 </html>
+
