@@ -23,7 +23,7 @@
       <br /> Перенос строки.
       <strong>Очень важный текст</strong>.</p>
 
-    <img src="file:///C:/Users/scaming/OneDrive/Рабочий%20стол/g12/1/image.jpg" alt="Цветок" style="width: 600px;" />
+    <img src="https://static.tildacdn.com/tild3337-3133-4161-b830-313736303336/stock.jpg" alt="Цветок" style="width: 600px;" />
 
     <h2>Структура страницы</h2>
 
@@ -63,4 +63,5 @@
   </body>
 
 </html>
+
 
